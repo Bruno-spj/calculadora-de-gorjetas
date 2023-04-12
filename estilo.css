@@ -1,0 +1,46 @@
+body{
+    background-color: aqua;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.calculadora{
+    background-color: black;
+    color: white;
+    margin: 100px auto;
+    height: 525px;
+    width: 360px;
+    box-shadow: 5px 5px white;
+    border-radius: 5%;
+    
+}
+h1{
+    background-color: gray;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+#formulario{
+    padding-left: 20px;
+    font-size: 17px;
+}
+.botao{
+    display: block;
+    padding: 15px;
+    border-radius: 50%;
+    font-size: 18px;
+    background-color: gray;
+    color: black;
+    margin: 0 auto;
+
+    
+}
+
+#total-gorjeta{
+    font-size: 15px;
+    text-align: center;
+    margin-top: 8px
+    
+}
+
